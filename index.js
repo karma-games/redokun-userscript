@@ -2,6 +2,8 @@
 // @name        redokun.com: Improve responsive behavior of Translation editor
 // @namespace   karma-games
 // @match       https://app2.redokun.com/*
+// @updateURL   https://raw.githubusercontent.com/karma-games/redokun-violentmonkey-userscript/refs/heads/main/index.js
+// @downloadURL https://raw.githubusercontent.com/karma-games/redokun-violentmonkey-userscript/refs/heads/main/index.js
 // @grant       GM_addStyle
 // @run-at      document-start
 // @version     1.0
