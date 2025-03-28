@@ -15,10 +15,10 @@ You need a Userscript browser extension to run this:
 
 We recommend to use Violentmonkey. However, as time of writing (March 2025), Violentmonkey is not running in latest Chrome versions. So, use Tampermonkey instead in that case.
 
-After you installed this browser extension head to our user script:
+After you installed this browser extension head to the Userscript:
 [redokun.user.js](https://github.com/karma-games/redokun-userscript/raw/refs/heads/main/redokun.user.js)
 
-The Violentmonkey/Tampermonkey will detect it automatically und you can install it using the "install" button.
+Violentmonkey/Tampermonkey will detect it automatically und you can install it using the "install" button.
 
 Now, login at [redokun.com](https://redokun.com/) and open the translation editor.
 
